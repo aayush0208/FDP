@@ -17,3 +17,10 @@ Step 2. Add the dependency
      dependencies {
 	        implementation 'com.github.aayush0208:FDP:0.1'
 	   }
+
+
+Step 3. Implement like this
+
+     android:layout_marginTop="@dimen/_40fdp"
+     
+Happy Coding :)
