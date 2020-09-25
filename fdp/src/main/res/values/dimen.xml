@@ -601,4 +601,37 @@
     <dimen name="_598fdp">598.00dp</dimen>
     <dimen name="_599fdp">599.00dp</dimen>
     <dimen name="_600fdp">600.00dp</dimen>
+    
+    
+    
+    <dimen name="_1fsp">1.00sp</dimen>
+    <dimen name="_2fsp">2.00sp</dimen>
+    <dimen name="_3fsp">3.00sp</dimen>
+    <dimen name="_4fsp">4.00sp</dimen>
+    <dimen name="_5fsp">5.00sp</dimen>
+    <dimen name="_6fsp">6.00sp</dimen>
+    <dimen name="_7fsp">7.00sp</dimen>
+    <dimen name="_8fsp">8.00sp</dimen>
+    <dimen name="_9fsp">9.00sp</dimen>
+    <dimen name="_10fsp">10.00sp</dimen>
+    <dimen name="_11fsp">11.00sp</dimen>
+    <dimen name="_12fsp">12.00sp</dimen>
+    <dimen name="_13fsp">13.00sp</dimen>
+    <dimen name="_14fsp">14.00sp</dimen>
+    <dimen name="_15fsp">15.00sp</dimen>
+    <dimen name="_16fsp">16.00sp</dimen>
+    <dimen name="_17fsp">17.00sp</dimen>
+    <dimen name="_18fsp">18.00sp</dimen>
+    <dimen name="_19fsp">19.00sp</dimen>
+    <dimen name="_20fsp">20.00sp</dimen>
+    <dimen name="_21fsp">21.00sp</dimen>
+    <dimen name="_22fsp">22.00sp</dimen>
+    <dimen name="_23fsp">23.00sp</dimen>
+    <dimen name="_24fsp">24.00sp</dimen>
+    <dimen name="_25fsp">25.00sp</dimen>
+    <dimen name="_26fsp">26.00sp</dimen>
+    <dimen name="_27fsp">27.00sp</dimen>
+    <dimen name="_28fsp">28.00sp</dimen>
+    <dimen name="_29fsp">29.00sp</dimen>
+    <dimen name="_30fsp">30.00sp</dimen>
 </resources>
