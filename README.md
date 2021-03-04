@@ -21,6 +21,9 @@ Step 2. Add the dependency
 
 Step 3. Implement like this
 
+	// For margin or width use _fdp
      android:layout_marginTop="@dimen/_40fdp"
+     
+     	// For text size use _fsp
      android:textSize = "@dimen/_16fsp"
 Happy Coding :)
